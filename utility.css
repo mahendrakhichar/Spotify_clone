@@ -1,0 +1,19 @@
+
+.border{
+    border: 2px grey;
+    margin: 3px;
+}
+.align{
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
+.justify{
+    justify-content: center;
+}
+
+.m1P1 {
+    margin: 7px;
+    padding: 3px;
+}
